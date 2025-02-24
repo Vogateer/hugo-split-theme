@@ -13,7 +13,7 @@ Inside the folder of your Hugo site run:
 
 ```bash
 $ cd themes
-$ git clone https://github.com/escalate/hugo-split-theme.git
+$ git clone https://github.com/Vogateer/hugo-split-theme.git
 ```
 
 For more information read the official [setup guide](https://gohugo.io/getting-started/quick-start/) of Hugo.
